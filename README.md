@@ -49,7 +49,7 @@ It tracks your hand using a webcam and translates **finger movements** into **mo
 ```plaintext
 wordcounter/
  ├──  hand_gesture_mouse.py  # Main Python script for real-time hand tracking and mouse control  
- ├── README.md
----
+ └── README.md 
+
 
 
