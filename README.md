@@ -43,8 +43,13 @@ It tracks your hand using a webcam and translates **finger movements** into **mo
 
 ---
 
-Hand-Gesture-Mouse/
-│── hand_gesture_mouse.py  # Main Python script for real-time hand tracking and mouse control
-│── README.md  
+
+
+## 📂 Project Structure
+```plaintext
+wordcounter/
+ ├──  hand_gesture_mouse.py  # Main Python script for real-time hand tracking and mouse control  
+ ├── README.md
 ---
+
 
